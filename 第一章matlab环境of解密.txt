@@ -1,0 +1,28 @@
+a * b    乘法，注意有空格，提高程序的可读性
+a / b     右除 a ÷ b
+a \ b     左除 b ÷ a
+
+ 运算优先级： 1 幂运算  2 右除，左除  3.加减
+ 
+ whos               查看变量信息
+ clear              全部清除
+ clear  x  y z      把变量x y z 清除
+ ...                表示续行输入
+ format long        显示16位小数
+ format short       显示4位小数
+ format bank         显示2位小数
+ format short e      修改指数的小数
+ format rat           修改结果式为比例式（一般是小数）
+ 
+ 
+ 数学定义：
+ 
+ pi             π
+ exp()          e的次方
+ sqrt()         开方
+ log() 
+ log10()
+ cos() 
+ atan()           a= 反
+ i               根号（-1）
+ 
